@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Isaiah Samuel</h1>
 
-<!--
-**isaiahsamuel1/isaiahsamuel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Data Scientist | 🧠 AI & Machine Learning Enthusiast | 💻 Full-Stack Developer 
+  <br>
+  🌍 Passionate about building tech solutions for Finance, Healthcare, and Businesses
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.Tech in Chemical Engineering from LAUTECH  
+- 🧪 Junior Data Scientist at **Beaconlabs Tech Solutions**  
+- 🎓 Diploma in Data Science at **AltSchool Africa**  
+- 🧠 Teaching AI to beginners & creating content on TikTok [@tech_savvi](https://tiktok.com/@tech_savvi)  
+- 💼 Founder of [**Primenovax**](#) — a hybrid tech company & learning platform  
+- 📌 Based in Nigeria | Open to global remote roles
+
+---
+
+### 🛠️ Tech Stack
+
+```python
+Languages:   Python, SQL, JavaScript
+Frameworks:  Django, Flask, Streamlit, Bootstrap
+ML Tools:    scikit-learn, TensorFlow, OpenCV, NumPy, pandas, seaborn
+Tools:       Git, GitHub, Anaconda, Jupyter, VS Code, Postman
