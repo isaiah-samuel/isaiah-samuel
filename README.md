@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Isaiah Samuel</h1>
 
 <p align="center">
-  🎓 Data Scientist | 🧠 AI & Machine Learning Enthusiast | 💻 Full-Stack Developer 
+  🎓 Data Scientist | 🧠 AI & Machine Learning Enthusiast
   <br>
   🌍 Passionate about building tech solutions for Finance, Healthcare, and Businesses
 </p>
