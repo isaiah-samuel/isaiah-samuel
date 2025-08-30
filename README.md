@@ -12,7 +12,13 @@ I’m passionate about turning data into actionable insights and building machin
 
 🌱 **Currently:**  
 - Building scalable ML pipelines  
-- Exploring deep learning for real-world use cases  
+- Exploring deep learning for real-world use cases
+
+- 👨‍🎓🙋‍♂️ **About Me** 💼🎒:
+- - 🎓 B.Tech in Chemical Engineering from LAUTECH  
+-   🎓 IBM Data Science Professional Certificate by Coursera
+-    🎓 Python For Machine Learning & Data Science Masterclass by Jose Portilla
+- 🎓 Diploma in Data Science at *AltSchool Africa*
 
 📫 **Reach me:**  
 - [LinkedIn](http://linkedin.com/in/isaiah-samuel-99b116225)  
